@@ -1,6 +1,6 @@
 # NBS-ANSI-APPDATA-Fix
 
-![Icon](./icon/icon.png)
+<p align="center"><img src="./assets/icon/icon.png"></img></p>
 
 临时修复因 Windows 用户名为中文导致的 NBS 无法读入音频资源文件的问题
 
